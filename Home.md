@@ -1,1 +1,3 @@
-Welcome to the BodySlide-and-Outfit-Studio wiki!
+**Compilation requirements:**
+* Microsoft Visual C++ 2012
+* wxWidgets 3.0.2+
