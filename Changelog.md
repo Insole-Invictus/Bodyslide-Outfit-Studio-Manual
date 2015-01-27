@@ -117,7 +117,7 @@
 ## 2.0.0.9c
 - minor package change, put BodySlide folder inside Data/CalienteTools for NMM compatibility
 
-2.0.0.9b
+## 2.0.0.9b
 - Beta version! Releasing to the public! Warning: may never get out of beta, and there are likely major problems, use at your own risk! :)
 - fixed an issue that caused batchbuild to ignore the disabled outfits when building
 - fixed an Outfit Studio problem that occurred when an outfit NIF had multiple shapes with the same name. Duplicated named shapes are now renamed to something unique.
