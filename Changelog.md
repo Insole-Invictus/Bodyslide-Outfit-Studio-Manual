@@ -1,3 +1,14 @@
+## 2.2d
+- CBBE Body HDT: fixed symmetry of bone "Breast L R". 
+- CBBE Body HDT: removed bone "Breast01 L R" as it's unnecessary for HDT PE. For animations use "CBBE Body TBBP". 
+- CBBE Body HDT: smoother transitions for bones "Clavicle L R" and "Butt L R". 
+- Outfit Studio: updated the XPMS Extended reference skeleton to version 2.33. 
+- Outfit Studio: fixed "Brush -> Clear Mask" clearing weight colors as well (instead of only the mask). 
+- Outfit Studio: weights are now only copied to unmasked vertices. Masked vertices keep their old weights. 
+- BodySlide: fixed category UI alignment of single-weighted slider sets. 
+- Now requires "Microsoft Visual C++ 2013 Redistributable (x86)" instead of 2012. Get it from Microsoft if it's not installed. 
+- No longer Windows XP compatible (BodySlideWXP.exe removed).
+
 ## 2.2c
 - BodySlide: fixed activating a zap after a preview window has been opened once causing a crash
 - BodySlide: fixed what's getting batch built sometimes not representing the selection in the dialog
