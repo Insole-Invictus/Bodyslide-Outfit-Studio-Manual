@@ -1,7 +1,30 @@
+## 2.3
+- BodySlide: Added "RaceMenu Morphs" build feature for in-game sliders. Requires RaceMenu and a matching morphs plugin.
+- Outfit Studio: Added tons of conversion references for CBBE -> X -> CBBE (in UNPConvert.xml) and restructured them.
+- Outfit Studio: Updated the XPMS Extended reference skeleton to version 2.50.
+- Outfit Studio: Edited the reference skeleton to hopefully fix hand/finger scales when exported.
+- Outfit Studio: Fixed crash when renaming shapes with unusual slider data naming, usually very old or manually edited.
+- Outfit Studio: Added value display showing the mask factor of the current vertex while the mask brush is active.
+- Outfit Studio: Added value display showing the position of the current vertex while any transform brush is active.
+- Outfit Studio: Added single vertex movement dialog that shows when the 'V' key is pressed.
+- Outfit Studio: Merged "Missing Bone" messages on a per-shape basis and added a few new error messages.
+- Outfit Studio: Added ability to close the Move/Rotate/Scale Shape and brush settings dialogs with the enter key.
+- Outfit Studio: Fixed "Duplicate Shape" and "Coalesce sliders" dialogs not being cancelable.
+- Outfit Studio: Adjusted default brush settings and reorganized the brush settings dialog.
+- Outfit Studio: Implemented automatic trimming of "Data\textures\" in texture set paths of shapes (for BS too).
+- Outfit Studio: Added new button "Apply Diffuse" for the "Set Textures" dialog to apply texture changes to the view.
+- Outfit Studio: Implemented automatic appending of file extensions in the "Save Project As" dialog (not visible).
+- Outfit Studio: Fixed moving shapes in slider edit mode to work as intended.
+- Outfit Studio: Added "Copy Selected Weights" to the shape context menu as well.
+- Outfit Studio: Fixed resizing the brush with the 'S' key going over the limits.
+- Outfit Studio: Changed hotkeys for brush size/strength adjustments to: Shift + +, Shift + -, Ctrl + +, Ctrl + -
+- Outfit Studio: Bones that are not in the reference skeleton will not be removed when a weight copy is done anymore.
+- Outfit Studio: The duplicate reference shape in the outfit shape list is now automatically deleted when loading a project.
+- Outfit Studio: Loading projects with only one slider set in the XML file skips the selection dialog now.
+- Outfit Studio: Made the load and save project file picker dialogs default to the "BodySlide\SliderSets" folder.
+- Outfit Studio: Increased slider knob size (OS).
+
 ## 2.2d
-- CBBE Body HDT: fixed symmetry of bone "Breast L R". 
-- CBBE Body HDT: removed bone "Breast01 L R" as it's unnecessary for HDT PE. For animations use "CBBE Body TBBP". 
-- CBBE Body HDT: smoother transitions for bones "Clavicle L R" and "Butt L R". 
 - Outfit Studio: updated the XPMS Extended reference skeleton to version 2.33. 
 - Outfit Studio: fixed "Brush -> Clear Mask" clearing weight colors as well (instead of only the mask). 
 - Outfit Studio: weights are now only copied to unmasked vertices. Masked vertices keep their old weights. 
@@ -44,19 +67,12 @@
 
 ## 2.1a
 - reverted "Smooth Seam Normals" selection back to the way it worked in 2.0.0.10
-- fixed offset of "CBBE Body TBBP"
 - removed auto-fill from "Save Project As" dialog, but improved default value filling
 - fixed that you could save projects without a valid reference shape loaded
 - renamed default names and UI items for making new zaps (removed the "slider" because it's not a slider in BS)
 
 ## 2.1
 - added and made the XPMS Extended (XPMSE) skeleton the default reference
-- renamed "CBBE Advanced" to "CBBE Body", the main group is still called "CBAdvanced" for compatibility reasons
-- added new "CBBE Body HDT" by ChronoTrigger77 to BodySlide (breast, butt and belly weights, previously "CT77 Body")
-- added new "CBBE Feet" set by ChronoTrigger77 to BodySlide
-- added new "NippleAreola" slider to all CBBE body sets
-- improved slider quality for included undies sets (done by ChronoTrigger77)
-- minor fixes and weight adjustments for all included meshes (done by ChronoTrigger77)
 - fixed bones from previous outfit carrying over to the others
 - added numeric value display to OS, showing the weight factor of the current vertex to the current bone
 - added a warning about unweighted vertices to the export/save that puts those under a mask automatically
