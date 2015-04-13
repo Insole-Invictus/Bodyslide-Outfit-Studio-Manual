@@ -1,3 +1,18 @@
+## 2.4
+- CBBE: Fixed "CBBE Vanilla" and "CBBE Vanilla NeverNude" mesh seams.
+- Unified UNP: Improved, cleaned and unified the weighting of the 4 body types.
+- Outfit Studio: Fixed Save Project always clearing the mask, even though there were no unweighted vertices.
+- Outfit Studio: Load Project now loads shapes with slider data that is in a different folder, instead of removing them.
+- Outfit Studio: Fixed "Show Mask" toggle affecting the visibility of the bone weights as well.
+- Outfit Studio: Added "Transfer Selected Weights" menu item:
+  - Transfers the weights of the selected bones from reference to chosen shape 1:1.
+  - Requires same vertex count and order of source and target shape.
+- Outfit Studio: Added "Apply Sliders?" message to the "Load Slider Preset" dialog as well.
+- Outfit Studio: Added a brush that smooths bone weighting, accessed by pressing the SHIFT key while weight painting.
+- Outfit Studio: Added NiTriStrips support (apart from "Build Skin Partitions").
+- Outfit Studio: Added NiSkinPartition support.
+- Outfit Studio: Added a bone scaling preview slider to the bones tab.
+
 ## 2.3
 - BodySlide: Added "RaceMenu Morphs" build feature for in-game sliders. Requires RaceMenu and a matching morphs plugin.
 - Outfit Studio: Added tons of conversion references for CBBE -> X -> CBBE (in UNPConvert.xml) and restructured them.
