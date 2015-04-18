@@ -1,3 +1,7 @@
+**Uses:**
+* SOIL - Simple OpenGL Image Library
+* TinyXML
+
 **Compilation requirements:**
 * Microsoft Visual C++ 2013
 * wxWidgets 3.0.2+
