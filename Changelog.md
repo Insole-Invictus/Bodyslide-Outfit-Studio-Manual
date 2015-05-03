@@ -1,3 +1,14 @@
+## 2.5
+- CBBE: Fixed "BigTorso" slider causing a wrist seam.
+- Unified UNP: Adjusted belly weighting for UUNP HDT and UUNP Special.
+- Outfit Studio: Added multi-select functionality to shape list (e.g. "Move Shape" for all selected ones).
+- Outfit Studio: Added "File -> Apply Overall Skin Transform". Disable to try out different offset loading.
+- Outfit Studio: Added "File -> Export -> Export NIF With Reference". Exports full project, instead of just outfit.
+- Outfit Studio: Fixed "Save Project" keeping deleted bone nodes of reference shape.
+- Outfit Studio: Fixed "SliderSets" folder not being created if non-existent.
+- Outfit Studio: Fixed crash on out-of-range zap index from old slider data.
+- Redone OpenGL canvas with wxGLCanvas from wxWidgets.
+
 ## 2.4
 - CBBE: Fixed "CBBE Vanilla" and "CBBE Vanilla NeverNude" mesh seams.
 - Unified UNP: Improved, cleaned and unified the weighting of the 4 body types.
