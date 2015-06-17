@@ -1,7 +1,7 @@
 **Uses:**
 * OpenGL
 * SOIL - Simple OpenGL Image Library
-* TinyXML
+* TinyXML-2
 * wxWidgets
 
 **Compilation requirements:**
