@@ -1,3 +1,26 @@
+## 2.6
+- BodySlide: Added "About" dialog with library info and licences.
+- Outfit Studio: Move, scale and rotate shape dialogs now use sliders.
+- Outfit Studio: Added preview to "Rotate Shape" dialog.
+- Outfit Studio: Weight brush now has X-Mirror disabled by default.
+- Outfit Studio: Added "Front/Back/Left/Right" view buttons that adjust the camera.
+- Outfit Studio: Added perspective/orthographic projection toggle.
+- Outfit Studio: Added field of view slider.
+- Outfit Studio: Added more accurate zooming by holding the middle mouse button and shift key.
+- Outfit Studio: Added light settings tab. The same settings are applied in the BodySlide previews.
+- Outfit Studio: Added "Fixed Weight Brush" check box when in the bones tab.
+- Outfit Studio: Added support for FO3/NV NIFs. You can't convert them between games, though!
+- Outfit Studio: Added "Target Game" entry to the Config.xml.
+- Outfit Studio: Refactored the NIF code, possibly including some fixes.
+- Outfit Studio: Removed registry warning if the game data path has been manually set already.
+- Outfit Studio: Renamed "Copy Name" button to "To Project" in the save project dialog.
+- Does not affect the "Output File Name" and "Output Data Path" text controls anymore.
+- Label now says "_0/_1.nif" or ".nif" depending on low/high or single-weighted outputs.
+- Outfit Studio: Bone weighting preview is now cleared before saving/exporting.
+- Outfit Studio: Updated progress bar texts.
+- Outfit Studio: Added error for unsupported NIF file versions.
+- Outfit Studio: Now using the TinyXML-2 library (previously 1)
+
 ## 2.5
 - CBBE: Fixed "BigTorso" slider causing a wrist seam.
 - Unified UNP: Adjusted belly weighting for UUNP HDT and UUNP Special.
