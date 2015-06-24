@@ -14,8 +14,8 @@
 - Outfit Studio: Refactored the NIF code, possibly including some fixes.
 - Outfit Studio: Removed registry warning if the game data path has been manually set already.
 - Outfit Studio: Renamed "Copy Name" button to "To Project" in the save project dialog.
-- Does not affect the "Output File Name" and "Output Data Path" text controls anymore.
-- Label now says "_0/_1.nif" or ".nif" depending on low/high or single-weighted outputs.
+  - Does not affect the "Output File Name" and "Output Data Path" text controls anymore.
+  - Label now says "_0/_1.nif" or ".nif" depending on low/high or single-weighted outputs.
 - Outfit Studio: Bone weighting preview is now cleared before saving/exporting.
 - Outfit Studio: Updated progress bar texts.
 - Outfit Studio: Added error for unsupported NIF file versions.
