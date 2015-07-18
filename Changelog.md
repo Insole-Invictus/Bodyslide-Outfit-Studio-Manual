@@ -1,3 +1,23 @@
+## 2.7
+- BodySlide: Now scans BSA files for textures and loads them, if they weren't found as loose files.
+- BodySlide: Added a group manager for editing and creating group files.
+- BodySlide: Changed texture path trimming behavior again. Always only "textures" at the front.
+- Outfit Studio: Added "Slider -> Import TRI Morphs..." feature.
+- Outfit Studio: Integrated brush settings into the main frame.
+- Outfit Studio: Disabled axis-crossing for conforming and weight copying.
+- Outfit Studio: Improved weight brush performance.
+- Outfit Studio: Changes to the way duplicate shapes are renamed.
+- Outfit Studio: Added working directory before the ShapeData path for loading projects with Mod Organizer.
+- Outfit Studio: Reference not needed for saving a project anymore.
+- Outfit Studio: Shader controllers are not dropped anymore.
+- Outfit Studio: Fixed various bugs related to using "Keep other shapes" when loading an outfit.
+- Outfit Studio: Normals for skin shaded shapes in the outfit list aren't generated anymore.
+- Outfit Studio: Added all conversion references to the template list, as shape names can now be defined.
+- Outfit Studio: Fixed crash when hovering mouse over mesh too early.
+- Outfit Studio: OBJ import correctly flips UVs again now.
+- Outfit Studio: Fixed OBJ export for NiTriStripsData.
+- Outfit Studio: Fixed minor issues with shape selection tree.
+
 ## 2.6
 - BodySlide: Added "About" dialog with library info and licences.
 - Outfit Studio: Move, scale and rotate shape dialogs now use sliders.
