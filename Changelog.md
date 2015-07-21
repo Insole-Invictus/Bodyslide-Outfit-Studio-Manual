@@ -1,3 +1,8 @@
+## 2.7b
+- Outfit Studio: Fixed conforming and weight copying bug introduced in 2.7. 
+- Outfit Studio: "Load Slider Preset" function now shows all presets, no matter the set or group names. 
+- Outfit Studio: Fixed weights and masks not being shown if no texture was found.
+
 ## 2.7
 - BodySlide: Now scans BSA files for textures and loads them, if they weren't found as loose files.
 - BodySlide: Added a group manager for editing and creating group files.
