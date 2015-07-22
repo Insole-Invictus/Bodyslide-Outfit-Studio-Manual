@@ -1,3 +1,7 @@
+## 2.7c
+- BodySlide: Added new settings dialog.
+- Outfit Studio: Fixed weight brush bug introduced in 2.7.
+
 ## 2.7b
 - Outfit Studio: Fixed conforming and weight copying bug introduced in 2.7. 
 - Outfit Studio: "Load Slider Preset" function now shows all presets, no matter the set or group names. 
