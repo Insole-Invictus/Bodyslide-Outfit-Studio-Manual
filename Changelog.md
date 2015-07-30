@@ -1,3 +1,9 @@
+## 2.7d
+- BodySlide: Fixed uncompressed files within BSAs not loading (textures in preview).
+- BodySlide: Now rescans BSAs when Game Data Path was changed in the settings dialog.
+- Outfit Studio: Fixed "Add Group" button of group manager being disabled by default.
+- Outfit Studio: Fixed bones sometimes not or wrongly being erased from NiSkinData.
+
 ## 2.7c
 - BodySlide: Added new settings dialog.
 - Outfit Studio: Fixed weight brush bug introduced in 2.7.
