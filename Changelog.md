@@ -1,3 +1,10 @@
+## 2.7e
+- General: Minor performance improvements. 
+- BodySlide: Fixed crashing preview windows caused by rendering at the wrong times. 
+- BodySlide: Added buttons to copy slider values to either low or high weight. 
+- Outfit Studio: Removed dialogs for virtual shape offset and scale (just the virtual ones). 
+- Outfit Studio: Added a minus and plus button to slider edit mode that scales slider data (not the shape).
+
 ## 2.7d
 - BodySlide: Fixed uncompressed files within BSAs not loading (textures in preview).
 - BodySlide: Now rescans BSAs when Game Data Path was changed in the settings dialog.
