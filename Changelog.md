@@ -1,3 +1,10 @@
+## 2.7f
+- BodySlide: Batch building now uses the currently active slider values as well.
+- BodySlide: Fixed copy slider values buttons affecting hidden sliders.
+- BodySlide: The preview is now equally as bright as the Outfit Studio view.
+- BodySlide: Fixed "Remove Group" in Group Manager being disabled by default.
+- Outfit Studio: Added "Slider -> Export TRI Morphs" feature to Outfit Studio.
+
 ## 2.7e
 - General: Minor performance improvements. 
 - BodySlide: Fixed crashing preview windows caused by rendering at the wrong times. 
