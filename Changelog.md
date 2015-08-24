@@ -1,3 +1,8 @@
+## 2.7g
+- General: Fixed texture paths with backslash at the very front.
+- Outfit Studio: Fixed outfit name not updating after the project has been saved under a new name.
+- Outfit Studio: Added hotkey (F2) for renaming shapes. Changed deleting shapes from CTRL+Del to Del.
+
 ## 2.7f
 - BodySlide: Batch building now uses the currently active slider values as well.
 - BodySlide: Fixed copy slider values buttons affecting hidden sliders.
