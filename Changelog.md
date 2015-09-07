@@ -1,3 +1,7 @@
+## 2.7h
+- General: Lots of under-the-hood code refactoring.
+- Outfit Studio: Support for BSEffectShaderProperty and various shader animation controllers.
+
 ## 2.7g
 - General: Fixed texture paths with backslash at the very front.
 - Outfit Studio: Fixed outfit name not updating after the project has been saved under a new name.
