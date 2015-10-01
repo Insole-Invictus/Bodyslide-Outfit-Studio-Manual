@@ -1,3 +1,14 @@
+## 2.8
+- BodySlide: Merged preview windows and added a weight slider.
+- BodySlide: Now updates preview window when switching sets, instead of closing it.
+- BodySlide: Slightly reduced memory and video memory usage.
+- Outfit Studio: Added a new properties dialog for shapes, currently for shader/texture editing (WIP).
+  - Shader type, specular color/strength/power, emissive color/multiplier and texture paths.
+- Outfit Studio: Fixed loading projects with externally referenced shape data.
+- Outfit Studio: Fixed "Save Project As" sometimes removing textures and/or masks.
+- Outfit Studio: Fixed zapping sometimes causing TRI morphs to not link to a shape properly.
+- Outfit Studio: Fixed OBJ shape import applying wrong transform matrix.
+
 ## 2.7h
 - General: Lots of under-the-hood code refactoring.
 - Outfit Studio: Support for BSEffectShaderProperty and various shader animation controllers.
