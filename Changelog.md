@@ -1,3 +1,7 @@
+## 2.8a
+- BodySlide: Now shortly renders an empty preview when switching sets.
+- Outfit Studio: Fixed TRI morphs import for unpacked TRI files (such as SAM).
+
 ## 2.8
 - BodySlide: Merged preview windows and added a weight slider.
 - BodySlide: Now updates preview window when switching sets, instead of closing it.
