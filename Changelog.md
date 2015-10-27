@@ -1,3 +1,7 @@
+## 2.8b
+- BodySlide: Fixed Group Manager using old groups or not saving in some cases.
+- Outfit Studio: Added "Export Slider Data -> Export OBJ" feature (previously .BSD only).
+
 ## 2.8a
 - BodySlide: Now shortly renders an empty preview when switching sets.
 - Outfit Studio: Fixed TRI morphs import for unpacked TRI files (such as SAM).
