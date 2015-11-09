@@ -1,3 +1,14 @@
+## 2.8c
+- General: Added logging functionality.
+- General: Starting this version, the program is now licensed under the GPLv3+.
+- BodySlide: Fixed layout bugs for single-weighted sets (slider frame and preview window).
+- Outfit Studio: Merged reference shape and outfit shapes list into the same tree.
+- Outfit Studio: The reference shape is highlighted with bold, green text now.
+- Outfit Studio: Shapes can now be reordered in the list with a drag and drop.
+- Outfit Studio: Exported NIF files now have their shapes in the same order as Outfit Studio.
+- Outfit Studio: Added transparency settings to the shape properties dialog.
+- Outfit Studio: Added menu item to set a new reference shape.
+
 ## 2.8b
 - BodySlide: Fixed Group Manager using old groups or not saving in some cases.
 - Outfit Studio: Added "Export Slider Data -> Export OBJ" feature (previously .BSD only).
