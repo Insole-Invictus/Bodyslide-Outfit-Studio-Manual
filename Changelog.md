@@ -1,3 +1,7 @@
+## 2.8d
+- BodySlide: Fixed preview window update when using certain zaps.
+- Outfit Studio: Fixed bug of v2.8c when loading the weighting.
+
 ## 2.8c
 - General: Added logging functionality.
 - General: Starting this version, the program is now licensed under the GPLv3+.
