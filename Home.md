@@ -1,6 +1,6 @@
 **Uses:**
 * OpenGL
-* SOIL - Simple OpenGL Image Library
+* Simple OpenGL Image Library 2 - SOIL2
 * TinyXML-2
 * FSEngine (BSA/BA2 library)
 * wxWidgets
