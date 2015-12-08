@@ -3,6 +3,7 @@
 * Simple OpenGL Image Library 2 - SOIL2
 * TinyXML-2
 * FSEngine (BSA/BA2 library)
+* Autodesk FBX SDK
 * wxWidgets
 
 **Compilation requirements:**
