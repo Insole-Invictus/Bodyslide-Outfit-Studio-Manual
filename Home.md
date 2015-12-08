@@ -8,6 +8,7 @@
 **Compilation requirements:**
 * Microsoft Visual C++ 2013
 * wxWidgets 3.0.2+
+* FBX SDK for VS2013: http://www.autodesk.com/products/fbx/overview
 
 **Compiling with Visual Studio 2013:**
 
