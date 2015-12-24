@@ -1,3 +1,17 @@
+## 3.0
+- General: Fallout 4 support!
+- General: Support for loading textures from BA2 archives.
+- General: Added 64-bit executable build.
+- General: Added archive selection and more improvements to the settings dialog.
+- General: New file formats .osp and .osd:
+  - .osp files contain the slider sets/projects (XML format).
+  - .osd files contain the slider data merged into one file (binary format).
+- BodySlide: Sliders now have a separate display name stored in the category file(s).
+- Outfit Studio: Added FBX import and export support (Autodesk FBX SDK).
+- Outfit Studio: Added drag and drop support for NIF, FBX and OBJ files.
+- Outfit Studio: Added drag and drop support for BSD and OBJ slider files.
+  - Drop on a slider to update it or hold the CTRL key to create a new slider.
+
 ## 2.8d
 - BodySlide: Fixed preview window update when using certain zaps.
 - Outfit Studio: Fixed bug of v2.8c when loading the weighting.
