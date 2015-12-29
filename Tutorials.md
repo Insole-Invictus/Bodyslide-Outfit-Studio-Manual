@@ -1,1 +1,0 @@
-Here you can find various guides on how to use the program to do certain things with it.
