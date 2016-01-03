@@ -1,3 +1,17 @@
+## 3.0a
+- General: Now looks for material files (BGSM/BGEM) and loads their diffuse textures.
+- General: Fixed NIF corruption if the root children contained an empty reference.
+- General: Fixed camera panning for a certain zoom level.
+- BodySlide: Fixed zaps not being updated properly in the preview while it's open.
+- Outfit Studio: Added selection for which BSClothExtraData to use on export/save.
+- Outfit Studio: Updated BSEffectShaderProperty support.
+- Outfit Studio: Fixed copying of NiAlphaProperty values.
+- Outfit Studio: Fixed weight brush when a dialog box appeared while holding ALT.
+- Outfit Studio: Removed progress dialog and added a progress bar instead.
+- Outfit Studio: Now refreshes the outfit list in BodySlide automatically when saving a new project.
+- Outfit Studio: Fixed absolute paths for Shape Data Folder in Save As dialog.
+- Outfit Studio: Cleaned up the New Project, Load Reference and Load Outfit dialogs.
+
 ## 3.0
 - General: Fallout 4 support!
 - General: Support for loading textures from BA2 archives.
