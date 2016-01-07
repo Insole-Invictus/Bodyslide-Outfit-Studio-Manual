@@ -1,3 +1,18 @@
+## 3.1
+- BodySlide: Slider categories are now sorted by order, not by alphabet.
+- Outfit Studio: Fixed crash when saving a project without sliders or shapes loaded.
+- Outfit Studio: Removed "Apply the shape changes?" dialog and always apply immediately.
+- Outfit Studio: Fixed various bugs with adding bones to a project through the UI.
+- Outfit Studio: Weights of bones not present in the ref. skeleton can now be viewed and edited.
+- Outfit Studio: Fixed NiNode alignment for meshes will a full skeleton hierarchy (Skyrim HDT PE).
+- Outfit Studio: Fixed FBX import/export for Skyrim as the target game.
+- Outfit Studio: Fixed shader name and wet material reference copying.
+- Outfit Studio: Fixed various .OBJ bugs.
+  - Fixed loading OBJs that don't have an object name in them.
+  - Fixed OBJs without UVs crashing FO4 shape creation.
+  - "template/OutfitTemplate_Wet.bgsm" is the default wet shader now.
+  - Don't link any default material .bgsm to the shader name yet.
+
 ## 3.0a
 - General: Now looks for material files (BGSM/BGEM) and loads their diffuse textures.
 - General: Fixed NIF corruption if the root children contained an empty reference.
