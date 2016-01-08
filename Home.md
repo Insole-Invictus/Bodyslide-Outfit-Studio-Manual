@@ -11,7 +11,7 @@
 * wxWidgets 3.0.2+
  * Extract to: YourProjectDirectory\wxWidgets
 * FBX SDK for VS2013: http://www.autodesk.com/products/fbx/overview
- * Choose exactly the following path in the installer: YourProjectDirectory\libraries\fbx
+ * Choose exactly the following path in the installer (type manually): YourProjectDirectory\libraries\fbx
 
 **Compiling with Visual Studio 2013:**
 
