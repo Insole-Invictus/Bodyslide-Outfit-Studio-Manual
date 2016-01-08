@@ -1,3 +1,8 @@
+## 3.1a
+- General: Fixed crash for a very specific type of .BSA archive (empty folder name).
+- General: Added a warning that shows if there's no read/write permission for the game data path.
+- General: Fixed log output for fatal and unhandled exceptions, properly lock the program thread.
+
 ## 3.1
 - BodySlide: Slider categories are now sorted by order, not by alphabet.
 - Outfit Studio: Fixed crash when saving a project without sliders or shapes loaded.
