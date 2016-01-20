@@ -1,3 +1,20 @@
+## 3.1b
+- General: Now saves the last window state to the config file (maximized window or not).
+- BodySlide: Batch building now notifies you of any overrides and asks you which one to build.
+- BodySlide: Renamed "Save Preset" button to "Save Preset As...".
+- BodySlide: Added new button "Save Preset" that transfers the changed slider values to the preset file.
+- BodySlide: Fixed preset drop down selection after saving a new preset to file.
+- BodySlide: Now immediately updates the normals when opening a new preview.
+- BodySlide: Now immediately activates zaps from presets in the preview.
+- Outfit Studio: Added new hotkeys for the view modes (Shift+1 to 5).
+- Outfit Studio: Added two buttons to the tool bar: "X-Mirror and "Edit Connected Only".
+- Outfit Studio: Fixed BSEffectShaderProperty export.
+- Outfit Studio: Now allows multiple BSClothExtraData to be selected for export at once.
+- Outfit Studio: Fixed crash when attempting to edit a slider after swapping between projects.
+- Outfit Studio: Fixed slider edit mode not closing after swapping between projects.
+- Outfit Studio: Fixed name copying for alpha properties.
+- Outfit Studio: Fixed crash when copying weights while there are no bones loaded.
+
 ## 3.1a
 - General: Fixed crash for a very specific type of .BSA archive (empty folder name).
 - General: Added a warning that shows if there's no read/write permission for the game data path.
