@@ -1,3 +1,12 @@
+## 3.1c
+- General: Fixed the loading of loose material files that aren't in BA2 archives.
+- General: Added toggle for the batch build override dialog to the settings.
+- BodySlide: Added additional mouse camera controls to the preview window.
+- Outfit Studio: Exporting slider data to OBJ works as intended again now.
+- Outfit Studio: Fixed OBJ import crash because of #comments in the faces section.
+- Outfit Studio: Fixed OBJ import not loading triangles properly for some faces sections.
+- Outfit Studio: Fixed BSSkinInstance target reference for OBJ/FBX import.
+
 ## 3.1b
 - General: Now saves the last window state to the config file (maximized window or not).
 - BodySlide: Batch building now notifies you of any overrides and asks you which one to build.
