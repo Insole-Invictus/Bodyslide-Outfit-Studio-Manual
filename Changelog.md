@@ -1,3 +1,18 @@
+## 3.2
+- General: Made the updating of mesh normals asynchronous for brush strokes and in the preview.
+- General: Fixed crash when attempting to load certain material files.
+- General: All text should now be readable with Windows font scaling or themes.
+- BodySlide: Fixed preview not reloading properly if the NIF stayed the same but was zapped.
+- Outfit Studio: You can now select and edit multiple shapes at the same time with brushes.
+- Outfit Studio: Added a new toggle "Global Brush Collision" for toggling active/selected meshes collision.
+- Outfit Studio: NiExtraData blocks can now be edited in the shape properties (NiStringExtraData for now).
+- Outfit Studio: Fixed "Load Project" not setting the reference shape properly for non-external references.
+- Outfit Studio: Loading old .xml projects now adjusts the slider set file name to .osp automatically.
+- Outfit Studio: Fixed slider data imports for FO4 sometimes introducing noise due to lower precision.
+- Outfit Studio: Fixed various issues/crashes with the faces section of the OBJ import.
+- Outfit Studio: Fixed OBJ/FBX import and FBX export for FO3NV.
+- Outfit Studio: Renamed/shortened a few menu items.
+
 ## 3.1c
 - General: Fixed the loading of loose material files that aren't in BA2 archives.
 - General: Added toggle for the batch build override dialog to the settings.
