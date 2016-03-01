@@ -8,7 +8,7 @@
 
 **Compilation requirements:**
 * Microsoft Visual C++ 2013
-* wxWidgets 3.0.2+
+* wxWidgets 3.1.0+
  * Extract to: _YourProjectDirectory\wxWidgets_
 * FBX SDK for VS2013: http://www.autodesk.com/products/fbx/overview
  * Choose exactly the following path in the installer (without the version number): _YourProjectDirectory\libraries\fbx_
