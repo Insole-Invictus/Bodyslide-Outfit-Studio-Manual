@@ -1,3 +1,38 @@
+## 3.3
+- General: Changing settings now reloads archives properly.
+- General: Changing the target game now recommends a default skeleton.
+- General: The settings dialog can't be opened while Outfit Studio is active anymore.
+- General: Stopped the texture pools of BS and OS conflicting with each other (black textures).
+- General: Fixed crash when clicking both the left and right mouse button at the same time.
+- General: Added Maya scripts for fixing the rig of FBX exports to the "res" folder.
+- General: The 3D views now load/generate mipmaps to reduce texture artifacts.
+- General: The 3D views can now load all texture compression formats (DXT1-5, BC1-7).
+- General: Fixed Z-Buffer for the 3D views, which appeared as clipping, even though there was none.
+- General: Fixed color profile warnings in the log.
+- Outfit Studio: Added a transform tool (3D widget) to move/rotate shapes more easily.
+- Outfit Studio: Holding down S key and scrolling while the transform tool is active will scale shapes.
+- Outfit Studio: Added "Shape -> UV -> Invert X/Y" feature.
+- Outfit Studio: Material file paths for FO4 can now be edited in the shape properties.
+- Outfit Studio: Fixed FO4 crash that could happen for some zapped shapes.
+- Outfit Studio: Added support for a few more block types (mostly for statics).
+- Outfit Studio: Added "File -> Import -> Import NIF" feature.
+- Outfit Studio: Added menu items to import/export BSClothExtraData blocks to HKX files.
+- Outfit Studio: Added "Save Preset" feature to OS.
+- Outfit Studio: Added "Remove Bone From Selected" feature to bone context menu.
+- Outfit Studio: Fixed weighting not staying on a shape if it wasn't weighted to the bone before.
+- Outfit Studio: Made bone context menu work without having to click on the name of a bone.
+- Outfit Studio: Made it possible to add a custom bone to the project that's not in the ref skeleton.
+- Outfit Studio: Fixed weighting colors only showing for the active shape, not all selected shapes.
+- Outfit Studio: Fixed FBX import/export ignoring bones that aren't in the reference skeleton.
+- Outfit Studio: Fixed crash for FBX import/export for shapes without normals or UVs.
+- Outfit Studio: Double-clicking on a shape now opens its shape properties dialog.
+- Outfit Studio: Stopped the RGB FaceGen shader flag from being a default for OBJ/FBX imports.
+- Outfit Studio: Fixed "Save Project As" dialog not showing the loaded game data path for upper-case paths.
+- Outfit Studio: Now saves the last size of the slider panel to the config file.
+- Outfit Studio: Improved cursor/brush stroke performance.
+- Outfit Studio: Fixed bone scaling preview for Skyrim.
+- Outfit Studio: Fixed window parenting of some message boxes.
+
 ## 3.2
 - General: Made the updating of mesh normals asynchronous for brush strokes and in the preview.
 - General: Fixed crash when attempting to load certain material files.
