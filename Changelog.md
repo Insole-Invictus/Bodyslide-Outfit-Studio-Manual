@@ -1,3 +1,18 @@
+## 3.4
+- General: Fixed OpenGL contexts not being compatible with some drivers.
+- General: Minimizing BodySlide does not minimize Outfit Studio anymore.
+- General: Updated the FO4 Maya bone fix script.
+- BodySlide: Added command-line arguments for building groups on launch.
+  - Example usage: BodySlide.exe -gbuild "CBBE Vanilla Outfits" -p "CBBE Curvy" -t "C:\temp\\"
+- Outfit Studio: Added a vertex selection mode for modifying the current mask.
+- Outfit Studio: Transform (and vertex) mode can (now) be used in combination with any brush.
+- Outfit Studio: Parts of the transform tool the mouse hovers over are now highlighted.
+- Outfit Studio: Added hotkeys "Q" for vertex selection and "F" for transform mode.
+- Outfit Studio: The size of the transform tool now changes dynamically with the camera zoom.
+- Outfit Studio: Added "Full Precision" geometry check box to the shape properties for FO4.
+- Outfit Studio: Added "NiIntegerExtraData" to the extra data tab of the shape properties.
+- Outfit Studio: Fixed the splitter panels being resized wrongly along the frame.
+
 ## 3.3
 - General: Changing settings now reloads archives properly.
 - General: Changing the target game now recommends a default skeleton.
