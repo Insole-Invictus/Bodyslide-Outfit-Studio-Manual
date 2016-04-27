@@ -1,3 +1,20 @@
+## 3.5
+- General: Added support for loading language catalogues from "lang\<lang>\BodySlide.mo".
+- General: You can enable the translation for your system language in the settings dialog if available.
+- General: Added German translation.
+- General: Added Chinese translation.
+- General: Fixed UTF8 naming issues for outfits, presets and sliders.
+- Outfit Studio: Added new option to the shape geometry properties to enable/disable skinning.
+- Outfit Studio: Unweighted vertices warning doesn't appear for unskinned shapes anymore.
+- Outfit Studio: Unused NiNodes of bones are now removed from the NIF upon deletion.
+- Outfit Studio: Added "Slider -> Mask Affected Vertices" feature
+- Outfit Studio: Added "Shape -> Update Bounding Sphere" feature to calculate center and radius of shapes.
+- Outfit Studio: Added UV updating option to FBX and OBJ import for existing shapes.
+- Outfit Studio: Fixed some references being loaded with multiple shapes instead of one.
+- Outfit Studio: Improved tangent/bitangent quality for Skyrim.
+- Outfit Studio: Fixed rendering way too often when using the weight brush.
+- Outfit Studio: Fixed crash when loading a new project while transform mode is enabled.
+
 ## 3.4
 - General: Fixed OpenGL contexts not being compatible with some drivers.
 - General: Minimizing BodySlide does not minimize Outfit Studio anymore.
