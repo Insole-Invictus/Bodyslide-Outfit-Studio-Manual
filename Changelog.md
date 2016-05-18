@@ -1,3 +1,10 @@
+## 3.6
+- General: Moved resource files, shaders and images into new folder structures.
+- Outfit Studio: Shapes can now be scaled in a non-uniform way (XYZ separately).
+- Outfit Studio: Fixed deletion of NiSkinInstances and shader controllers.
+- Outfit Studio: Fixed crash when looking for a bone that doesn't exist in the NIF.
+- Outfit Studio: Vastly improved performance when moving sliders with many shapes.
+
 ## 3.5
 - General: Added support for loading language catalogues from "lang\<lang>\BodySlide.mo".
 - General: You can enable the translation for your system language in the settings dialog if available.
