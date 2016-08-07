@@ -5,6 +5,7 @@
 * TinyXML-2
 * FSEngine (BSA/BA2 library)
 * Autodesk FBX SDK
+* Miniball
 * wxWidgets
 
 **Compilation requirements:**
