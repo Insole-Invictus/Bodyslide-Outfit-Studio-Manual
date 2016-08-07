@@ -1,3 +1,20 @@
+## 3.7
+- General: Loose material files now have priority over the ones in archives.
+- General: Updated Chinese and German translations.
+- BodySlide: Enabled morphs checkbox for FO4 (.tri morph files for use in-game).
+- BodySlide: Implemented an improved override selection dialog for batch building.
+- BodySlide: Heavily improved the batch build speed and made it multi-threaded.
+- BodySlide: Now closes after a command-line group build has been completed.
+- Outfit Studio: Implemented the new "Segments" tab for painting FO4 segmentation.
+- Outfit Studio: Implemented material file chooser dialog for the shape properties.
+- Outfit Studio: Implemented a feature to directy export/import OSD files of projects.
+- Outfit Studio: Implemented improved algorithm for calculating bounding spheres.
+- Outfit Studio: Mesh bounding spheres are always being updated now.
+- Outfit Studio: Fixed multiple issues with the weight brush and bone scale preview.
+- Outfit Studio: Fixed a bug where brush actions would happen without hitting a shape.
+- Outfit Studio: Fixed crash when loading bone data with empty references.
+- Outfit Studio: Slightly lowered the default focus of the mask brush by a bit.
+
 ## 3.6
 - General: Moved resource files, shaders and images into new folder structures.
 - Outfit Studio: Shapes can now be scaled in a non-uniform way (XYZ separately).
