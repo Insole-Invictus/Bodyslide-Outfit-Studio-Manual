@@ -1,3 +1,7 @@
+## 3.7.1
+- General: Fixed shader initialization for some graphics drivers.
+- Outfit Studio: Fixed a bug that could create invalid string references.
+
 ## 3.7
 - General: Loose material files now have priority over the ones in archives.
 - General: Updated Chinese and German translations.
