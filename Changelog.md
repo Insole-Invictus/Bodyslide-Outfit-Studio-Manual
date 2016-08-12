@@ -1,3 +1,10 @@
+## 3.7.2
+- BodySlide: Prevent crash by limiting batch build with 32-bit executable to 2 CPU threads.
+- BodySlide: Delete matching .tri files when building without morphs enabled.
+- BodySlide: Fixed .tri morphs link for low weight NIF of Skyrim batch builds.
+- Outfit Studio: Prevent selecting other shapes while a brush is active.
+- Outfit Studio: Fixed crash when attempting to calculate tangents for shapes without UVs.
+
 ## 3.7.1
 - General: Fixed shader initialization for some graphics drivers.
 - Outfit Studio: Fixed a bug that could create invalid string references.
