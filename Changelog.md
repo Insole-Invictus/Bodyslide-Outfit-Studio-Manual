@@ -1,3 +1,14 @@
+## 3.7.3
+- General: Improved visibility of the lines in wireframe mode.
+- Outfit Studio: Added "Partitions" tab that lets you add, delete and edit skin partitions (FO3NV/SK).
+- Outfit Studio: Removed "Build Skin Partitions" menu item. This is done with the "Skinned" checkbox now.
+- Outfit Studio: Fixed string issue with some block types that could potentially break the NIF.
+- Outfit Studio: Fixed undo and redo functionality and changed redo hotkey to Ctrl+Y.
+- Outfit Studio: Added "FBX Import Options" dialog, currently with "Invert U" and "Invert V".
+- Outfit Studio: You can now apply shape scaling to sliders as well.
+- Outfit Studio: Fixed a bug with segments that had more than 65535 triangles (FO4).
+- Outfit Studio: Fixed crash when loading a new shape while a bone is selected.
+
 ## 3.7.2
 - BodySlide: Prevent crash by limiting batch build with 32-bit executable to 2 CPU threads.
 - BodySlide: Delete matching .tri files when building without morphs enabled.
