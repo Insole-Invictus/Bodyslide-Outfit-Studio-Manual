@@ -1,3 +1,10 @@
+## 3.7.4
+- BodySlide: Skin partition flags are now updated after zaps (FO3NV/SK).
+- Outfit Studio: Added feature to toggle zaps based on other zaps (see slider properties).
+- Outfit Studio: Removed maximum bones per skin partition (only SK).
+- Outfit Studio: Conforming shapes to sliders doesn't affect zaps anymore.
+- Outfit Studio: Prevent selecting or brushing on shapes set to be invisible.
+
 ## 3.7.3
 - General: Improved visibility of the lines in wireframe mode.
 - Outfit Studio: Added "Partitions" tab that lets you add, delete and edit skin partitions (FO3NV/SK).
