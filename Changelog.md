@@ -1,3 +1,11 @@
+## 3.7.5
+- General: Updated Chinese and German translations.
+- General: Updated wxWidgets, GLI and TinyXML-2 libraries.
+- BodySlide: Skin partition slots weren't removed correctly after a full zap of one (FO3NV/SK).
+- BodySlide: Group manager now has a Close button instead of OK and Cancel buttons.
+- Outfit Studio: Skin partitions are now triangulated if they were stripified (crash fix, FO3NV/SK).
+- Outfit Studio: Extra Data tab of the shape properties now has a working scrollbar.
+
 ## 3.7.4
 - BodySlide: Skin partition flags are now updated after zaps (FO3NV/SK).
 - Outfit Studio: Added feature to toggle zaps based on other zaps (see slider properties).
