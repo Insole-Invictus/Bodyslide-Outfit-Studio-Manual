@@ -23,6 +23,6 @@
 4. Set **/MTd** for the **Debug**, both **Win32** and **x64**, configurations of all projects in the solution.
 5. Set **/MT** for the **Release**, both **Win32** and **x64**, configurations of all projects in the solution.
 6. Build the **Debug** and **Release** configurations of the solution.
-7. Get the **"GL/glext.h"** and **"GL/wglext.h"** header files from https://www.opengl.org/registry/
-8. Copy them to **"%ProgramFiles(x86)%\Windows Kits\8.1\Include\um\gl"** (or without *(x86)* on 32-bit machine)
+7. Get the **"GL/glext.h"** header file from https://www.opengl.org/registry/
+8. Copy it to **"%ProgramFiles(x86)%\Windows Kits\8.1\Include\um\gl"** (or without *(x86)* on 32-bit machine)
 9. Open up the BodySlide solution in Visual Studio 2013 and build it.
