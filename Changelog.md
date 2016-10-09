@@ -1,3 +1,16 @@
+## 3.8
+- General: Complete rewrite of the renderer to make use of modern techniques.
+- BodySlide: Removed multi-threaded batch build for the 32-bit executable. Only 64-bit now.
+- Outfit Studio: Vastly improved the quality of the bone weight copy (see below).
+- Outfit Studio: Added a weight copy options dialog and improved the default values.
+- Outfit Studio: Added new knobs for scaling to the transform tool, both uniform and not.
+- Outfit Studio: The S key doesn't scale shapes while the transform tool is active anymore.
+- Outfit Studio: Improved segment painting performance.
+- Outfit Studio: Manually deleting a slider now removes its data as well.
+- Outfit Studio: Fixed BSSkin::Instance target reference not being set properly (FO4).
+- Outfit Studio: Default consistency type when importing OBJ/FBX is mutable now (FO3NV/SK).
+- Outfit Studio: Fixed multiple issues with BSFadeNode roots in NIF files.
+
 ## 3.7.5
 - General: Updated Chinese and German translations.
 - General: Updated wxWidgets, GLI and TinyXML-2 libraries.
