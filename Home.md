@@ -5,10 +5,9 @@
 * [[Compilation Instructions|Compilation]]
 
 ## What is BodySlide?
-BodySlide provides an easy way to customize outfits and bodies without the need to edit mesh files yourself.  
-The project files for BodySlide are created in Outfit Studio.
+BodySlide provides an easy way to customize outfits and bodies without the need to edit mesh files yourself. The project files for BodySlide are created in Outfit Studio.
 
-You can customize the installed addons using sliders to create your personal shapes and edits. Fancy outfit and group filtering quickly shows you the sets you want, while the textured preview windows show you what you are going to get.
+You can customize the addons you installed using sliders to create your personal shapes and edits. Fancy outfit and group filtering quickly shows you the sets you are looking for, while the textured preview windows show you what you are going to get.
 
 [![BodySlide](http://i.imgur.com/pbn0xGAt.png)](http://i.imgur.com/pbn0xGA.png)
 
