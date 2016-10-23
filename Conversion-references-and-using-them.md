@@ -58,4 +58,4 @@ _Example: "CBBE Body" or "FemaleBody.nif"_
 
 10. Export the finished conversion using **File -> Export -> Export NIF With Reference**!
 
-    **For Skyrim:** Replace the high weight variant of the outfit you converted with this file (**_1.nif**). Then, **repeat the entire process** with a different reference to target the low weight variant as well (**_0.nif**).
+    **For Skyrim:** Replace the high weight variant of the outfit you converted with this file (**_1.nif**). Then, **repeat the entire process** with a different reference to target the low weight variant as well, but do NOT copy the bone weights a second time (**_0.nif**).
