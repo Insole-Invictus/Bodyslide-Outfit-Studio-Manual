@@ -1,0 +1,5 @@
+* [[Home]]
+* [[List of guides|Guides]]
+* [[Releases]]
+* [[Changelog]]
+* [[Compilation Instructions|Compilation]]
