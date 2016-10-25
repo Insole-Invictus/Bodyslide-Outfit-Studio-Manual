@@ -7,10 +7,10 @@ To help out with **creating or editing translations**, you should get the free v
 
 Find the existing **BodySlide.po** file in the folder of the translation you want to edit.  
 Examples:
-* _BodySlide\lang\<language code>\BodySlide.po_
-* _[BodySlide\lang\de\BodySlide.po](../blob/dev/lang/de/BodySlide.po)_
+* _BodySlide/lang/{language code}/BodySlide.po_
+* _[BodySlide/lang/de/BodySlide.po](../blob/dev/lang/de/BodySlide.po)_
 
-If the .po file is empty and you want to create a new translation, open up the [lang\BodySlide.pot](../blob/dev/lang/BodySlide.pot) template instead.
+If the .po file is empty and you want to create a new translation, open up the [lang/BodySlide.pot](../blob/dev/lang/BodySlide.pot) template instead.
 
 Now that you've opened up either a template or existing translation, you can start editing. To update a .po translation with new entries that have been added to the .pot template, choose **Catalogue -> Update from POT file** in Poedit.
 
