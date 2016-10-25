@@ -39,19 +39,23 @@ If you want to create a BodySlide conversion (with slider compatibility) as well
 ![New Project](http://i.imgur.com/KxNNU2K.png)
 
 2. Select the **reference template** you need from the drop down list and click next.  
-_Example: "Vanilla to CBBE"_  
-![Template](http://i.imgur.com/RirpEsF.png)
+_Example: "Vanilla to CBBE"_
+
+    ![Template](http://i.imgur.com/RirpEsF.png)
 
 3. Choose the **file of the outfit/mesh** you want to convert and click next.
 _Example: "outfit.nif"_
 
-    **For Skyrim:** The high weight variants you need have the "_1" suffix attached to their file name. Other Bethesda games, such as Fallout 3 or Fallout 4, do not have weight variants.  
-![Template](http://i.imgur.com/GC8l0Ar.png)
+    **For Skyrim:** The high weight variants you need have the "_1" suffix attached to their file name. Other Bethesda games, such as Fallout 3 or Fallout 4, do not have weight variants.
+
+    ![Template](http://i.imgur.com/GC8l0Ar.png)
 
 4. **Delete the duplicate body shape** that was loaded together with the outfit file, if there is one. To do this, select the shape and press the DEL key or right-click it and choose "Delete Shape". If you don't do this, you might have two exported body shapes in one file later on.
 
-5. **Conform the outfit shapes** to the sliders of the conversion reference. To do this, use the **Slider -> Conform All** menu item. It doesn't matter what shape you have selected here, as everything will be conformed.  
-[![Conform All](http://i.imgur.com/sf1FvMZm.png)](http://i.imgur.com/sf1FvMZ.png)
+5. **Conform the outfit shapes** to the sliders of the conversion reference.  
+To do this, use the **Slider -> Conform All** menu item. It doesn't matter what shape you have selected here, as everything will be conformed.
+
+    [![Conform All](http://i.imgur.com/sf1FvMZm.png)](http://i.imgur.com/sf1FvMZ.png)
 
 6. Change the slider with the morph that you need **to 100%** and use the **Slider -> Set Base Shape** function. This will make the 100% value of the slider the **default shape of the mesh**. Any clipping here is normal and will be fixed later on!
 
@@ -62,8 +66,9 @@ _Example: "CBBE Body" or "FemaleBody.nif"_
 
     Read up on the [[brushes page|Brushes]] for more info about them.
 
-9. Next up, you have to **copy the bone weights** from your reference to your outfit/mesh, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.  
-[![Copy Bone Weights](http://i.imgur.com/xlVgiZhm.png)](http://i.imgur.com/xlVgiZh.png)
+9. Next up, you have to **copy the bone weights** from your reference to your outfit/mesh, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.
+
+    [![Copy Bone Weights](http://i.imgur.com/xlVgiZhm.png)](http://i.imgur.com/xlVgiZh.png)
 
 10. Export the finished conversion using **File -> Export -> Export NIF With Reference**!
 
