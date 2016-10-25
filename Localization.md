@@ -19,6 +19,6 @@ Now that you've opened up either a template or existing translation, you can sta
 Make sure to provide both the **.po** (source text) and **.mo** (compiled text) of your translations in **[pull requests](../../pulls)**, so that everyone can benefit from them!
 
 ## Using translations
-To actually change the language that's being used, open up the settings dialog and toggle the **Use System Language** check box (see [[Getting Started]]).
+To actually change the language that's being used, open up the settings dialog and toggle the **Use System Language** check box (see [[Installation and Settings]]).
 
 It is currently not possible to manually pick a specific language - this will be added at some point in the future.
