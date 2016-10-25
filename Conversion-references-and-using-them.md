@@ -51,7 +51,7 @@ _Example: "outfit.nif"_
 4. **Delete the duplicate body shape** that was loaded together with the outfit file, if there is one. To do this, select the shape and press the DEL key or right-click it and choose "Delete Shape". If you don't do this, you might have two exported body shapes in one file later on.
 
 5. **Conform the outfit shapes** to the sliders of the conversion reference. To do this, use the **Slider -> Conform All** menu item. It doesn't matter what shape you have selected here, as everything will be conformed.  
-[![Conform All](http://i.imgur.com/sf1FvMZl.png)](http://i.imgur.com/sf1FvMZ.png)
+[![Conform All](http://i.imgur.com/sf1FvMZm.png)](http://i.imgur.com/sf1FvMZ.png)
 
 6. Change the slider with the morph that you need **to 100%** and use the **Slider -> Set Base Shape** function. This will make the 100% value of the slider the **default shape of the mesh**. Any clipping here is normal and will be fixed later on!
 
@@ -63,7 +63,7 @@ _Example: "CBBE Body" or "FemaleBody.nif"_
     Read up on the [[brushes page|Brushes]] for more info about them.
 
 9. Next up, you have to **copy the bone weights** from your reference to your outfit/mesh, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.  
-[![Copy Bone Weights](http://i.imgur.com/dpLBAPQl.png)](http://i.imgur.com/dpLBAPQ.png)
+[![Copy Bone Weights](http://i.imgur.com/dpLBAPQm.png)](http://i.imgur.com/dpLBAPQ.png)
 
 10. Export the finished conversion using **File -> Export -> Export NIF With Reference**!
 
