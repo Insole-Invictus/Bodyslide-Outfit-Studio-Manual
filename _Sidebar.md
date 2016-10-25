@@ -1,5 +1,5 @@
 * [[Home]]
-* [[Getting Started]]
+* [[Installation & Settings]]
 * [[Guides]]
 * [[Localization]]
 * [[Releases]]
