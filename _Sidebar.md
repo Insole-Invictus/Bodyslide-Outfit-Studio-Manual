@@ -1,6 +1,7 @@
 * [[Home]]
 * [[Getting Started]]
 * [[Guides]]
+* [[Localization]]
 * [[Releases]]
 * [[Changelog]]
 * [[Compilation Instructions|Compilation]]
