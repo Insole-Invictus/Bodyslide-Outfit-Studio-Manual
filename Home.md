@@ -1,5 +1,6 @@
 # BodySlide and Outfit Studio - Wiki
 * [[Getting Started]]
+* [[Localization]]
 * [[Guides]]
 * [[Releases]]
 * [[Changelog]]
