@@ -63,7 +63,7 @@ _Example: "CBBE Body" or "FemaleBody.nif"_
     Read up on the [[brushes page|Brushes]] for more info about them.
 
 9. Next up, you have to **copy the bone weights** from your reference to your outfit/mesh, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.  
-[![Copy Bone Weights](http://i.imgur.com/dpLBAPQm.png)](http://i.imgur.com/dpLBAPQ.png)
+[![Copy Bone Weights](http://i.imgur.com/xlVgiZhm.png)](http://i.imgur.com/xlVgiZh.png)
 
 10. Export the finished conversion using **File -> Export -> Export NIF With Reference**!
 
