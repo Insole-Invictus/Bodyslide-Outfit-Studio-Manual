@@ -1,5 +1,4 @@
-Most of the BodySlide and Outfit Studio user interface can be translated into any other language.  
-This is done through funtionality built into the [wxWidgets](https://www.wxwidgets.org/) GUI library.
+Most of the BodySlide and Outfit Studio user interface can be translated into any other language. This is done through funtionality built into the [wxWidgets](https://www.wxwidgets.org/) GUI library.
 
 ## Creating translations
 To help out with **creating or editing translations**, you should get the free version of the program **[Poedit](https://poedit.net/)**. They can also be modified with any regular text editor and then compiled with Poedit, but that's not recommended.
