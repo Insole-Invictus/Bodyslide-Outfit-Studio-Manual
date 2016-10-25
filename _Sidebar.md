@@ -1,6 +1,6 @@
 * [[Home]]
-* [[Installation & Settings]]
-* [[Guides & Documentation]]
+* [[Installation and Settings]]
+* [[Guides and Documentation]]
 * [[Localization]]
 * [[Releases]]
 * [[Changelog]]
