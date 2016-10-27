@@ -1,9 +1,9 @@
 ## What are BodySlide projects?
-BodySlide projects are created in Outfit Studio and can contain an outfit or body with **sliders for customization**. Each project is saved in an **.osp** project file and comes with **.nif** files for the meshes and **.osd** files for the slider data.
+BodySlide projects are created in Outfit Studio and can contain an outfit or body with **sliders for customization**. They can be selected from a list and the final result can be built straight into the data folder of your game.
 
 That means, we need to create the slider data for your outfit, so that it can morph together with the body/reference. Only after that you will be able to apply your custom presets in the BodySlide part of the program.
 
-The outfit you're intending to use **has to be converted to the base shape** of the body/reference already, such as the base shape of the CBBE body for the specific game. If it is not, please follow the other guides to do that first!
+The outfit you're intending to use **has to be converted to the base shape** of the body/reference already, such as the base shape of the CBBE body for the specific game. If it is not, please follow the [[other guides|Guides and Documentation]] to do that first!
 
 ## How do I share project files with others?
 After you're done creating your BodySlide project following the instructions below, there should be **multiple new files** in your BodySlide folder with the names you provided **in the save dialog**.
