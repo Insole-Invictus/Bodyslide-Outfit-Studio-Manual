@@ -1,7 +1,9 @@
 ## What are BodySlide projects?
 BodySlide projects are created in Outfit Studio and can contain an outfit or body with **sliders for customization**. They can be selected from a list and the final result can be built straight into the data folder of your game.
 
-That means, we need to create the slider data for your outfit, so that it can morph together with the body/reference. Only after that you will be able to apply your custom presets in the BodySlide part of the program.
+![Project](http://i.imgur.com/fW6FuGO.png)
+
+That means, we need to **create the slider data** for your outfit, so that it can morph together with the body/reference. Only after that you will be able to apply your custom presets in the BodySlide part of the program.
 
 The outfit you're intending to use **has to be converted to the base shape** of the body/reference already, such as the base shape of the CBBE body for the specific game. If it is not, please follow the [[other guides|Guides and Documentation]] to do that first!
 
@@ -15,6 +17,8 @@ Projects consist of the following:
 * (optionally) **.xml** files from the **SliderGroups** folder.
 
 Make sure to provide them with the correct folder structures, and you and your users should be good to go.
+
+![Folder Structure](http://i.imgur.com/Wt0bif1.png)
 
 ## Step-by-step example
 This guide explains how to create such a project, so that you can make any outfit that you previously made or downloaded compatible with **existing sliders**.
@@ -46,7 +50,11 @@ To do this, use the **Slider -> Conform All** menu item. It doesn't matter what 
 7. (optional but recommended) **Check all sliders for clipping** and fix it using the brushes.  
 To do that, select the shape that needs fixing, click the edit button next to the slider that requires tweaks and brush on.
 
-    _Edit the outfit shapes, not the body shape! Note that the look of more extreme sliders might be hard to perfect sometimes._
+    * It is only possible to edit one slider at the same time, but you can edit that one for multiple shapes at once.
+    * Edit the outfit shapes, not the body/reference!
+    * Note that the look of more extreme sliders might be hard to perfect sometimes.
+
+    ![Edit Slider](http://i.imgur.com/ONVygUd.png)
 
 8. Next up, you have to **copy the bone weights** from your reference to your outfit, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.
 
@@ -65,3 +73,5 @@ To do that, select the shape that needs fixing, click the edit button next to th
     See the [[group manager|Using the group manager]] page for more information on how to use it!
 
    _Note that if you add an outfit to its own group, do not forget to add it to the master group (for example "CBBE") as well!_
+
+12. Share your projects! See the start of this page for info on how to do that.
