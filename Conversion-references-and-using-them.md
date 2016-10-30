@@ -64,7 +64,7 @@ _Example: "CBBE Body" or "FemaleBody.nif"_
 
 8. Now you might have to **fix a bit of clipping** here and there using the brush tools that Outfit Studio provides. Select the shape of the outfit you want to adjust, fix the clipping and do whatever tweaks you like. This is **editing the base shapes** of the meshes, not any slider morphs.
 
-    Read up on the [[brushes page|Brushes]] for more info about them.
+    Read up on the [[brushes page|Brushes and Tools]] for more info about them.
 
 9. Next up, you have to **copy the bone weights** from your reference to your outfit/mesh, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.
 
