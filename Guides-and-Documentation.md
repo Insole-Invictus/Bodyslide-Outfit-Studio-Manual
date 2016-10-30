@@ -5,3 +5,4 @@
 
 #### Documentation
 * [[Defining reference templates|Reference Templates]]
+* [[Brushes and Tools]]
