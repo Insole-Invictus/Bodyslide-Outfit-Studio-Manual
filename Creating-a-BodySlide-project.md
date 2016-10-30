@@ -70,7 +70,7 @@ To do that, select the shape that needs fixing, click the edit button next to th
 
     To add an outfit to one or more groups, use the group manager accessible at the top-right of the BodySlide frame. You can save multiple groups into one XML file inside of the SliderGroups folder.
 
-    See the [[group manager|Using the group manager]] page for more information on how to use it!
+    See the [[group manager|Group Manager]] page for more information on how to use it!
 
    _Note that if you add an outfit to its own group, do not forget to add it to the master group (for example "CBBE") as well!_
 
