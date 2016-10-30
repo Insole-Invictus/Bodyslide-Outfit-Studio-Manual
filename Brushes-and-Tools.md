@@ -3,6 +3,17 @@ Outfit Studio provides you with multiple brush tools that can be activated in th
 
 Most of them change their behavior while you hold down a **modifier key**, such as CTRL, ALT or SHIFT. You can **undo and redo** the changes with the CTRL+Z and CTRL+Y shortcuts.
 
+![Brush](http://i.imgur.com/x9hrFQn.png)
+
+## Brush Settings
+You can **expand the settings panel** for brushes by clicking on **Brush Settings** at the top of the Outfit Studio frame. In here you can change the size of the brush circle, the strength and focus of the effect, and the spacing between brush actions.
+
+The focus is a **falloff for the brush stroke** from the center to the border of the circle. A higher focus means that the outer areas of the brush circle are affected stronger.
+
+The spacing is the **amount you have to drag the mouse** for the next brush action to happen. The higher the spacing, the fewer times the brush will update as you stroke.
+
+![Brush Settings](http://i.imgur.com/fvrGByZ.png)
+
 ## Overview
 #### ![Select](http://i.imgur.com/PnMwovk.png) Select Tool (0)
 With this tool, you can simply click on a single shape in the viewport and it will **become the selection** for brushing and other actions.
