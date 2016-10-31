@@ -62,7 +62,7 @@ To do that, select the shape that needs fixing, click the edit button next to th
 
 9. Open up the **File -> Save Project As...** dialog and fill out all of the text fields. Make sure to carefully read all of the tooltips that appear when hovering over them, as they will tell you what to do.
 
-    See the [[saving a project]] page for more details!
+    See the [[saving a project|Saving a project]] page for more details!
 
 10. Save the project and you will immediately be able to select it, build it and apply your presets to it in the BodySlide part of the program.
 
