@@ -1,3 +1,7 @@
+## BodySlide
+#### Documentation
+* [[Group Manager]]
+
 ## Outfit Studio
 #### Guides
 * [[Conversion references and using them]]
@@ -5,6 +9,6 @@
 * [[Adding zaps to projects]]
 
 #### Documentation
-* [[Defining reference templates|Reference Templates]]
+* [[Saving a project]]
 * [[Brushes and Tools]]
-* [[Group Manager]]
+* [[Defining reference templates|Reference Templates]]
