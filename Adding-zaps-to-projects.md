@@ -23,7 +23,7 @@ These steps show you how to create your own zaps. You need an otherwise already 
 
 6. (optional) By going into edit mode of the zap and using any of the brushes on the mesh, you can **define more areas** that should be zapped later on, in case you missed any. Anything **affected by the slider** in Outfit Studio will be zapped later in BodySlide.
 
-7. (optional) If you want a zap to be **always active and invisible** to the user of your project, activate the edit mode of the zap and enter the **Slider -> Properties** (TAB). In the dialog, set the **default value to 100** and enable the **hidden** checkbox.
+7. (optional) If you want a zap to be **always active and invisible** to the user of your project, activate the edit mode of the zap and enter the **Slider -> Properties** (TAB). In the dialog, set the **default value to 100** and enable the **Hidden** checkbox.
 
     ![Zap Properties](http://i.imgur.com/NKkqtW1.png)
 
