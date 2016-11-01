@@ -1,3 +1,19 @@
+## 4.0
+- General: Skyrim Special Edition support!
+- General: Support for NIF meshes and BSA archives of SSE.
+- General: Show a target game selection dialog the first time you launch the program.
+- Outfit Studio: OBJ/FBX import now creates default partitions for the body slot (FO3NV/SK).
+- Outfit Studio: Improved handling of skin transforms and creating new bone bounding spheres.
+- Outfit Studio: Allow dragging and dropping multiple files into the frame at once.
+- Outfit Studio: Show warning if the version of the loaded NIF doesn't match the target game.
+- Outfit Studio: Changed skeleton root from "NPC" to "NPC Root [Root]" for Skyrim.
+- Outfit Studio: Removed "File -> Apply Overall Skin Transform" menu item, not needed anymore.
+- Outfit Studio: When saving a project, remove _0 and _1 from default target file name for SK.
+- Outfit Studio: Moved reference templates from the Config.xml to a new RefTemplates.xml file.
+- Outfit Studio: Copying weights now ignores masked vertices and they keep their old weights.
+- Outfit Studio: Enabling vertex edit doesn't cause non-existent clipping to appear anymore.
+- Outfit Studio: Updated reference skeletons for all games.
+
 ## 3.8
 - General: Complete rewrite of the renderer to make use of modern techniques.
 - BodySlide: Removed multi-threaded batch build for the 32-bit executable. Only 64-bit now.
