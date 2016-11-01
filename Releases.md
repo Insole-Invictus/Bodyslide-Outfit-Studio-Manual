@@ -1,3 +1,4 @@
 ## Mod Pages
-* [http://www.nexusmods.com/fallout4/mods/25/](http://www.nexusmods.com/fallout4/mods/25/)
-* [http://www.nexusmods.com/skyrim/mods/49015/](http://www.nexusmods.com/skyrim/mods/49015/)
+* [Skyrim Special Edition](http://www.nexusmods.com/skyrimspecialedition/mods/221/)
+* [Fallout 4](http://www.nexusmods.com/fallout4/mods/25/)
+* [Skyrim](http://www.nexusmods.com/skyrim/mods/49015/)
