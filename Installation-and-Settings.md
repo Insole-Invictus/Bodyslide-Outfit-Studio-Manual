@@ -51,3 +51,12 @@ This is the reference skeleton file that Outfit Studio uses to create a list of 
 
 **Root Node**  
 The root node name can differ from game to game. It needs to be correctly set up in order for Outfit Studio to know where to start reading the list of bones from.
+
+## Config.xml
+A few options are currently only found in the Config.xml file directly.
+
+**GroupAliases**  
+Group aliases provide a way for presets saved under older group names to still apply when a group has been renamed. You can also merge several groups into one by linking them to eachother.
+
+**SliderMinimum and SliderMaximum**  
+Sets the minimum and maximum slider values for the BodySlide UI. This allows you to experiment more easily with sliders. There might be clipping outside of the 0-100 range and it's not supported!
