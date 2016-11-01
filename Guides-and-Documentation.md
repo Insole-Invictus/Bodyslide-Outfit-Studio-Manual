@@ -8,6 +8,7 @@
 * [[Creating a BodySlide project]]
 * [[Adding zaps to projects]]
 * [[Updating projects for new sliders]]
+* [[Making a new conversion reference]]
 
 #### Documentation
 * [[Saving a project]]
