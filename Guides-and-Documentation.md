@@ -12,6 +12,7 @@
 * [[Making a new conversion reference]]
 
 #### Documentation
+* [[Keyboard Shortcuts]]
 * [[Saving a project]]
 * [[Weight Copy Options]]
 * [[Brushes and Tools]]
