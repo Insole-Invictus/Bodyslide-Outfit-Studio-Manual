@@ -13,5 +13,6 @@
 
 #### Documentation
 * [[Saving a project]]
+* [[Weight Copy Options]]
 * [[Brushes and Tools]]
 * [[Defining reference templates|Reference Templates]]
