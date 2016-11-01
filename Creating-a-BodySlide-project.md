@@ -56,7 +56,7 @@ To do that, select the shape that needs fixing, click the edit button next to th
 
     ![Edit Slider](http://i.imgur.com/ONVygUd.png)
 
-8. Next up, you have to **copy the bone weights** from your reference to your outfit, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.
+8. Next up, you have to **[[copy the bone weights|Copying bone weights]]** from your reference to your outfit, so that it will move along correctly with animations in-game. To do that, **multi-select** all of the outfit shapes in the list and choose **Copy Bone Weights** after a right-click.
 
     [![Copy Bone Weights](http://i.imgur.com/xlVgiZhm.png)](http://i.imgur.com/xlVgiZh.png)
 
