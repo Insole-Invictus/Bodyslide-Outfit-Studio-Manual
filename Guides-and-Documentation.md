@@ -16,3 +16,8 @@
 * [[Weight Copy Options]]
 * [[Brushes and Tools]]
 * [[Defining reference templates|Reference Templates]]
+
+## Videos
+* [In-depth installation and usage guide for BodySlide](https://www.youtube.com/watch?v=Wkwtgp3x25s) by Gopher
+* [Outfit Studio guidance](https://www.youtube.com/playlist?list=PLCW8BYqMR7Ei5smG2ij2GKmiVRu7JoUWk) by Nightasy/Brain Poof
+* [Turning armor into static meshes](https://www.youtube.com/watch?v=ptjg17vOorY) with Elianora
