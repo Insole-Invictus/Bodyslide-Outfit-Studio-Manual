@@ -15,7 +15,7 @@
 * Press **V** to show a dialog for moving only the single vertex your mouse currently is on.
 
 ## Rendering
-* Press **G** to toggle the ghost mode.
 * Press **W** to toggle the wireframe mode.
 * Press **T** to toggle texture rendering.
 * Press **L** to toggle the lighting.
+* Press **G** to toggle the ghost mode.
